@@ -1,5 +1,13 @@
 # @astrojs/starlight
 
+## 0.42.8
+
+### Patch Changes
+
+- [#4295](https://github.com/withastro/starlight/pull/4295) [`af9557e`](https://github.com/withastro/starlight/commit/af9557ea8c957173ea9174e19a87d80fce22a983) Thanks [@delucis](https://github.com/delucis)! - Fixes a formatting issue in some error messages impacting projects with Zod ≥4.5 installed
+
+- [#4299](https://github.com/withastro/starlight/pull/4299) [`a103f38`](https://github.com/withastro/starlight/commit/a103f383bcd99a7bd0b9c62a678c41ec5202497b) Thanks [@clean99](https://github.com/clean99)! - Fixes empty sidebars when autogenerating entries from the docs root directory using `directory: ''`
+
 ## 0.42.7
 
 ### Patch Changes
